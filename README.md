@@ -30,6 +30,6 @@ Made Dynamic dashboards for Adventure Works to get valuable insight about the co
 2. Content: Tree structure for categories, subcategories, and products.
 
 **(7) Key Influencers:**
-1.Goal: Understand factors influencing home ownership and average retail price
+1. Goal: Understand factors influencing home ownership and average retail price
 2. Content: Insights on how factors impact them.
 
